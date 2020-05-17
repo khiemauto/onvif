@@ -14,9 +14,6 @@ CONFIG -= qt
 #CONFIG += staticlib
 CONFIG += plugin
 
-target.path = /media/card
-INSTALLS += target
-
 CONFIG(release, debug|release) {
     DESTDIR = release
 }
@@ -104,11 +101,6 @@ SOURCES += \
     src/soapRemoteDiscoveryBindingProxy.cpp
 
 LIBS += -lcrypto -lssl -lz
-
-unix {
-    target.path = /usr/lib
-    INSTALLS += target
-}
 
 DISTFILES += \
     include/gsoap/import/README.txt
