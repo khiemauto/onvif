@@ -21,7 +21,6 @@ CONFIG(release, debug|release) {
 CONFIG(debug, debug|release) {
     DESTDIR = debug
     LIBS += -L../core/debug -lonvifcore
-
 }
 
 #DEFINES += WITH_OPENSSL

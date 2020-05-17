@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.5.2, 2020-03-14T13:40:59. -->
+<!-- Written by QtCreator 4.5.2, 2020-03-30T08:53:03. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -267,24 +267,24 @@
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinux.DirectUploadStep</value>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedFiles">
-       <value type="QString">/mnt/EXT4_DATA/Vinsmart/FPGAProject/onvif/app/release/ipcamera</value>
        <value type="QString">/mnt/EXT4_DATA/Vinsmart/FPGAProject/onvif/core/release/libonvifcore.so</value>
+       <value type="QString">/mnt/EXT4_DATA/Vinsmart/FPGAProject/onvif/app/release/ipcamera</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedHosts">
        <value type="QString">192.168.200.221</value>
        <value type="QString">192.168.200.221</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedRemotePaths">
-       <value type="QString">/media/card</value>
        <value type="QString">/usr/lib</value>
+       <value type="QString">/media/card</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedSysroots">
        <value type="QString">/opt/petalinux/2019.1/sysroots/aarch64-xilinx-linux</value>
        <value type="QString">/opt/petalinux/2019.1/sysroots/aarch64-xilinx-linux</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedTimes">
-       <value type="QDateTime">2020-03-14T13:39:24</value>
        <value type="QDateTime">2020-03-14T13:39:27</value>
+       <value type="QDateTime">2020-03-14T13:44:40</value>
       </valuelist>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.IgnoreMissingFiles">false</value>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.Incremental">true</value>
