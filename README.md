@@ -1,2 +1,4 @@
 Onvif C++ for Linux
-To easy use
+
+Onvif core: Make onvif library with qmake
+Onvif app: Test onvif api and class onvifptz
